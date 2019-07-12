@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464978542683",
+    "firebase_url": "https://ageru-be7c3.firebaseio.com",
+    "project_id": "ageru-be7c3",
+    "storage_bucket": "ageru-be7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464978542683:android:43a2ce08cb61d101",
+        "android_client_info": {
+          "package_name": "com.ageru.ageru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464978542683-vaejfur4k5s76bhj3mtf0gqepgc1qiaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqLChFA_uwS7EBgd677CV0likGvIJed4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464978542683-vaejfur4k5s76bhj3mtf0gqepgc1qiaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
